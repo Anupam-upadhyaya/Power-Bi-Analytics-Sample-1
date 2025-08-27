@@ -8,3 +8,6 @@ Tools Used:
 4. Power Querry- Data transformation
 5. DAX Code- Measures Creation
 6. Power BI- Dasboard Creation/ visualization
+
+Directly Download "pizza.pbit" file  and open it in Power bi to see my dashboard
+
